@@ -61,6 +61,8 @@ h2 {
     height: auto;
     border-radius: 8px;
     transition: transform 0.3s ease;
+    object-fit: cover;
+    aspect-ratio: 16 / 9;
 }
 
 .celebration-img:hover {
